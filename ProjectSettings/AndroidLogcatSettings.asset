@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "32003c04b6f095e1",
         "name": "com.SearchIn.IndoorLocalisation3",
-        "processId": 21211,
+        "processId": 18728,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -60,6 +60,18 @@
             "deviceId": "32003c04b6f095e1",
             "name": "com.SearchIn.IndoorLocalisation3",
             "processId": 21211,
+            "exited": false
+        },
+        {
+            "deviceId": "32003c04b6f095e1",
+            "name": "com.SearchIn.IndoorLocalisation3",
+            "processId": 7977,
+            "exited": false
+        },
+        {
+            "deviceId": "32003c04b6f095e1",
+            "name": "com.SearchIn.IndoorLocalisation3",
+            "processId": 18728,
             "exited": false
         }
     ],
